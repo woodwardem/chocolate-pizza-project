@@ -1,3 +1,31 @@
 body {
-    background: green;
+    background: lightslategray;
+}
+
+
+
+
+
+
+
+/* Header*/
+
+
+
+body > header {
+    color: #525252;
+    background: white;
+}
+
+body > header .title {
+    display: block;
+    font-family: 'Yellowtail', cursive;
+    font-size: 2em;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+
 }
