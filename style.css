@@ -29,3 +29,23 @@ nav li {
     padding: 0;
 
 }
+
+/* General body fonts*/
+
+body {
+
+}
+
+a.primary {
+    background: #ba6f57;
+    color: #ffffff;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    width: 150px;
+}
+
+h1 {
+    font-family: 
+}
