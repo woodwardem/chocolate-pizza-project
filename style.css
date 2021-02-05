@@ -1,6 +1,4 @@
-body {
-    background: lightslategray;
-}
+
 
 
 
@@ -16,6 +14,7 @@ body > header {
     color: #525252;
     background: white;
 }
+
 
 body > header .title {
     display: block;
@@ -33,7 +32,8 @@ nav li {
 /* General body fonts*/
 
 body {
-
+    color: #595959;
+font-family: serif;
 }
 
 a.primary {
@@ -49,3 +49,10 @@ a.primary {
 h1 {
     font-family: 
 }
+
+body header { font-size: 1em;}
+body > header, main, footer {
+    margin: auto;
+    width: 150px;
+}
+
