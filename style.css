@@ -10,6 +10,7 @@
 
 
 
+
 body > header {
     color: #525252;
     background: white;
@@ -18,7 +19,7 @@ body > header {
 
 body > header .title {
     display: block;
-    font-family: 'Yellowtail' cursive;
+    font-family: cursive;
     font-size: 2em;
 }
 
@@ -45,7 +46,7 @@ a.primary {
 }
 
 h1 {
-    font-family: 
+    font-family: 'Oswald';
 }
 
 body header { font-size: 1em;}
